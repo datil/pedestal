@@ -9,7 +9,7 @@
 ;
 ; You must not remove this notice, or any other, from this software.
 
-(defproject io.pedestal/pedestal.service "0.3.0-SNAPSHOT"
+(defproject io.pedestal/pedestal.service "0.3.0-NO-ASYNC"
   :description "Pedestal Service"
   :dependencies [[org.clojure/clojure "1.5.1"]
                  ;; logging
